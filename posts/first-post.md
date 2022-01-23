@@ -33,11 +33,17 @@ With the ladder in mind, a central research objective of mine lies in understand
 
 #### "*who* is being engaged?"
 
-This question should be asked more often, because the sad reality is, there is a fundamental problem with how Canadian cities are engaged. Canadian municipalities 
+This question should be asked more often, because the sad reality is, there is a fundamental problem with how Canadian cities are engaged. Canadian municipalities  [do not **track** *who* is being engaged](https://tspace.library.utoronto.ca/handle/1807/79195). They believe that in order to treat everyone equally, engagers must skip this step in the query process. I would argue, rather, that equal treatment is **significantly** different from equitable public opinion.  Women, children, and people of colour may or may not be severely underrepresented in the engagement process, and we would never know. The problem, then, is how Canadian municipalities turn a blind eye to this metric. The worst should be assumed. 
 
-[do not **track** *who* is being engaged]: https://tspace.library.utoronto.ca/handle/1807/79195
+### Being critical of current engagement strategies
 
-. They believe in order to treat everyone equally, they must skip this step in the process. Equal treatment is significantly different from equitable public opinion, however.  Women, children, and people of colour may or may not be severely underrepresented in the engagement process. The problem is, Canadian municipalities turn a blind eye to this metric, therefore the worst should be assumed. 
+Despite not having any explicit data from ongoing engagement turnouts in Canadian municipalities, we can still be critical of their methods and how they may be presenting inequities. Groups that have been traditionally excluded from the conversation are women, children and minorities. [Research done by Dr. Jill Clark at Ohio State University](https://www.researchgate.net/publication/320827557_Designing_Public_Participation_Managing_Problem_Settings_and_Social_Equity) found that:
 
-Despite not having the data, we can still be critical of current methods of engagement and how they are inequitable. 
+#### unless engagers are paying explicit attention to disenfranchised groups, their engagement process is inherently inequitable. 
+
+This is where my work intersects. 
+
+**All Voices** works to include these groups directly by using web-based civic engagement technologies. My study will begin this term (Winter 2022) by reviewing literature on privacy, human computer interaction, inclusionary design, and existing web-based civic engagement technologies under my supervisors [Dr. Raghav Sampangi](https://www.dal.ca/faculty/computerscience/faculty-staff/raghav-sampangi.html) from the Faculty of Computer Science (Dalhousie U.) and [Carla Heggie (CIAPP)](https://www.dal.ca/faculty/management/school-of-information-management/faculty-staff/faculty/carla-heggie.html) from the School of Information Management (Dalhousie U.). By synthesizing this literature, the hopeful outcome will aid in paving a path forward for my independent research project next year where I will be building an alpha release of an open source web application. 
+
+Throughout the term I will be posting updates here. Follow along, comment and/or provide feedback, by connecting with me on [LinkedIn](https://www.linkedin.com/in/mathew-dodds-6127a0125) where I will be sharing these articles as they come out!
 
