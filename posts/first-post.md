@@ -30,19 +30,19 @@ IN a famous and well-cited paper written in 1969, Sherry Arnstein proposed the l
 
 ###### *Sherry Arnstein's Ladder of Participation (pictured above).*
 
-The town hall example I gave you earlier would fall into the relatively low 3rd and 4th rungs due to it's informative nature. Sherry Arnstein drew this concept in 1969. It has since been argued by the academic side of planning that the most equitable way to plan is by engaging at higher rungs of the ladder. Naturally, with increased public involvement, there is greater opportunity for diverse public opinion.
+The town hall example I gave you earlier would fall into the relatively low 3rd and 4th rungs due to its informative nature. Sherry Arnstein drew this concept in 1969. It has since been argued by the academic side of Planning that the most equitable way to plan is by engaging at higher rungs of the ladder. Naturally, with increased public involvement, there is greater opportunity for diverse public opinion.
 
 ## Capturing public opinion
 
-With the ladder in mind, a central research objective of mine lies in understanding how we can capture public opinion **effectively**. Importantly, there is a forgotten difference between just *general* public opinion and *diverse* public opinion. The question I always ponder when I see municipalities engaging the public, is: 
+With the ladder in mind, a central research objective of mine lies in understanding how we can capture public opinion **effectively**. Importantly, there is a forgotten difference between *general* public opinion and *diverse* public opinion. The question I always ponder when I see municipalities engaging the public, is: 
 
 #### "*who* is being engaged?"
 
-This question should be asked more often, because the sad reality is, there is a fundamental problem with how Canadian cities are engaged. Canadian municipalities  [do not **track** *who* is being engaged](https://tspace.library.utoronto.ca/handle/1807/79195). They believe that in order to treat everyone equally, engagers must skip this step in the query process. I would argue, rather, that equal treatment is **significantly** different from equitable public opinion.  Women, children, and people of colour may or may not be severely underrepresented in the engagement process, and we would never know. The problem, then, is how Canadian municipalities turn a blind eye to this metric. The worst should be assumed. 
+This question should be asked more often, because the sad reality is, there is a fundamental problem with how Canadian cities are engaging their urbanites. Canadian municipalities  [do not **track** *who* is being engaged](https://tspace.library.utoronto.ca/handle/1807/79195). They believe that in order to treat everyone equally, engagers must skip this step in the query process. I would argue, rather, that equal treatment is **significantly** different from (and less useful than) equitable public opinion.  Women, children, and people of colour may or may not be severely underrepresented in the engagement process, and we would never know. The problem, then, is how Canadian municipalities turn a blind eye to this metric. The worst should be assumed. 
 
 ## Being critical of current engagement strategies
 
-Despite not having any explicit data from ongoing engagement turnouts in Canadian municipalities, we can still be critical of their methods and how they may be presenting inequities. Groups that have been traditionally excluded from the conversation are women, children and minorities. [Research done by Dr. Jill Clark at Ohio State University](https://www.researchgate.net/publication/320827557_Designing_Public_Participation_Managing_Problem_Settings_and_Social_Equity) found that **unless engagers are paying explicit attention to disenfranchised groups, their engagement process is inherently inequitable**. 
+Despite not having any explicit data from ongoing engagement turnouts in Canadian municipalities, we can still be critical of their methods and how they may be presenting inequities. Groups that have been traditionally excluded from planning conversations are women, children and minorities. [Research done by Dr. Jill Clark at Ohio State University](https://www.researchgate.net/publication/320827557_Designing_Public_Participation_Managing_Problem_Settings_and_Social_Equity) found that **unless engagers are paying explicit attention to these disenfranchised groups, their engagement process is inherently inequitable**. 
 
 ### This is where my work intersects. 
 
