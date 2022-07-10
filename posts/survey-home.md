@@ -1,4 +1,3 @@
-
 ---
 title: 2022 Research Study Home Page
 date: 1657496198
