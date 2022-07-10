@@ -20,7 +20,7 @@ About 10-15 minutes. I am very appreciative of every minute you spend while part
 
 Then you might be wondering **what will I be doing?**
 
-This is an online research survey. To begin the survey, you can click the secure link below when you are ready. You will first be asked to provide some <u>optional</u> information about yourself--in particular, your age, visible minority status, town/neighbourhood, and spoken languages.  This data will only be collected to be used for research. It is helpful for me as a researcher. You will then be asked a series of multiple choice, rating, and ranking questions. Most questions in this survey will ask you to rate something from 1-5.  There are different scales for the different questions being asked. This study respects your privacy and will NOT ask you for your name, address, or any contact information. This study will NOT track your IP address. 
+This is an online research survey. To begin the survey, you can click the secure link below when you are ready. You will first be asked to provide some <u>optional</u> information about yourself--in particular, your age, visible minority status, town/neighbourhood, and spoken languages.  This data will only be used for research. It is helpful for me as a researcher. You will then be asked a series of multiple choice, rating, and ranking questions. Most questions in this survey will ask you to rate something from 1-5.  There are different scales for the different questions being asked. This study respects your privacy and will NOT ask you for your name, address, or any contact information. This study will NOT track your IP address. 
 
 Finally, you might be wondering, **why should I care? What is this study all about?**
 
