@@ -1,16 +1,12 @@
 
 ---
 title: 2022 Research Study Home Page
-date: 2022-08-01
+date: 1657496198
 author: Mathew Dodds
 gravatar: 28aeda247697a581fdeb1b9cd2bcc60d
 twitter: '@mathewdodds'
-
-
 ---
-
 For more information regarding how you can participate in my research study, please read below.
-
 ---
 
 If you are visiting this page you have likely been invited to participate in a research study being conducted by me, Mathew Dodds, a graduate Urban Planning student at Dalhousie University. Firstly, thank you for stopping by and considering volunteering. All volunteers are greatly appreciated. 
