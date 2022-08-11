@@ -30,6 +30,8 @@ Online engagement has the ability to make cities fair for everyone.  The interne
 
 By participating in this study, you are contributing to new research regarding online engagement and its improvement.
 
+[SECURE SURVEY LINK](https://survey.allvoicesproject.org/index.php?r=survey/index&sid=641843&newtest=Y&lang=en)
+
 
 
 
